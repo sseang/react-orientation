@@ -1,8 +1,10 @@
 import { useState } from 'react';
 import './App.css'
 import Footer from './components/Footer/Footer';
-import Card  from './components/components/Card/Card';
-import Logo  from './components/Logo/Logo';
+// re-name path
+import Card from './components/Card/Card/';
+import Logo from './components/Logo/Logo';
+
 
 
 
